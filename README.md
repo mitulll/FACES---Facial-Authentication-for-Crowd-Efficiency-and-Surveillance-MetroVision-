@@ -78,7 +78,10 @@ python attendance.py
 
 - 📈 Attendance report per shift
 
-
+## 📸 Screenshots
+<img width="1016" alt="Picture 14" src="https://github.com/user-attachments/assets/d9ceae6b-120d-460a-bb7a-b5d3addf7794" />
+<img width="416" alt="Picture 5" src="https://github.com/user-attachments/assets/435d6a77-a37c-4f22-9b08-5c3576bd9e43" />
+<img width="321" alt="Picture 4" src="https://github.com/user-attachments/assets/e25c833b-8160-4226-84ea-fff347cae5ea" />
 
 
 
