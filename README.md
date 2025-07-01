@@ -10,7 +10,7 @@ Follow these steps to set up and run the system on your local machine:
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition.git
+git clone https://github.com/mitulll/FACES---Facial-Authentication-for-Crowd-Efficiency-and-Surveillance-MetroVision-.git
 ```
 #### 2. Install Dependencies
 ```bash
